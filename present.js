@@ -1,6 +1,6 @@
 var to = 'my important older sister!';
-var gift_url = 'https://www.facebook.com/photo/?fbid=615123146763655&set=a.556971429245494';
-var gift_image_url ='https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/309167078_615123140096989_1976906343674249703_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=oTEcKohhuKkAX8uofML&_nc_oc=AQmaV4QfqMxGHz4KSGw-owkLnxNf4SE_VVWoAe1PdUWnlDQGk-Lyfc7EnOTtFQRFzGo&_nc_ht=scontent.fsgn5-6.fna&oh=00_AT8mnaIWCwH6GJ5rFusoFEqG6eYS_1KFt-Y_DO3z3PdSaA&oe=6355A3F5';
+var gift_url = '';
+var gift_image_url ='';
 
 
 
